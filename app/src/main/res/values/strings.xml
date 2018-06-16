@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AddressProvider</string>
+
+    <string name="search_view_hint">введите адрес</string>
+
+    <string name="region_and_town">Россия, Алтайский край, Барнаул,</string>
+    <string name="region">Россия, Алтайский край,</string>
+
+    <string name="repeat_request_permission">разрешить</string>
+    <string name="error_cant_get_coordinates">Не удалось получить координаты</string>
+    <string name="error_cant_get_address">Не удалось получить адрес</string>
+    <string name="error_cant_get_my_location">Не удалось определить местоположения</string>
+    <string name="error_cant_get_suggestions">Ошибка при получении подсказки</string>
+    <string name="error_message_going_out_of_the_city">Указанное местоположение находится вне города Барнаула. Укажите другой адрес</string>
+    <string name="btn_name_yes">ок</string>
+    <string name="btn_name_grant_permission">разрешить</string>
+    <string name="rights_are_required_message">Для корректной работы приложения необходимо разрешить определение местоположения</string>
+    <string name="coordinates_are_not_yet_determinate">Координаты не определены, повторите позже</string>
+</resources>
